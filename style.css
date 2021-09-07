@@ -1,0 +1,86 @@
+body {
+  color: #fff5ee;
+}
+
+#home {
+  width: 100vw;
+
+  padding: 0rem 5rem 5rem 5rem;
+}
+#aboutme {
+  width: 100vw;
+  padding: 5rem;
+}
+#iDo {
+  padding: 5rem;
+  width: 100vw;
+}
+#skills {
+  padding: 5rem;
+  width: 100vw;
+}
+#experiences {
+  padding: 5rem;
+  width: 100vw;
+}
+#contact {
+  padding: 5rem;
+  width: 100vw;
+  margin-bottom: 3rem;
+}
+
+.navbar-brand {
+  margin-left: 0.5rem;
+}
+.navbar-nav {
+  margin-left: 0.5rem;
+}
+.nav-item {
+  margin-left: 1rem;
+}
+.my-name {
+  padding-top: 15rem;
+  margin-left: 5rem;
+}
+.my-image {
+  margin-top: 12rem;
+  margin-left: 5rem;
+  display: block;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-border-radius: 99em;
+  -moz-border-radius: 99em;
+  border-radius: 99em;
+  border: 3px solid #f0ad4e;
+  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+.badge-outline {
+  border: 1px solid #f0ad4e;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+  color: #f0ad4e;
+}
+
+h5 {
+  color: #f0ad4e;
+}
+
+hr {
+  margin-right: 300px;
+  height: 2px;
+  border-width: 0;
+  color: #fa8072;
+  background-color: #fa8072;
+}
