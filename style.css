@@ -59,9 +59,13 @@ body {
 .badge-outline {
   border: 1px solid #f0ad4e;
 }
+.fab {
+  margin-left: 20rem;
+}
 
 ul li {
   list-style-type: none;
+  margin-bottom: 1rem;
 }
 
 .svg-inline--fa {
@@ -83,4 +87,16 @@ hr {
   border-width: 0;
   color: #fa8072;
   background-color: #fa8072;
+}
+
+/* progress bar */
+
+/* progress bar */
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
 }
