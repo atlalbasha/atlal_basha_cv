@@ -40,11 +40,10 @@ body {
 }
 .my-name {
   padding-top: 15rem;
-  margin-left: 5rem;
 }
 .my-image {
   margin-top: 12rem;
-  margin-left: 5rem;
+
   display: block;
 
   background-size: cover;
