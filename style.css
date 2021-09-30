@@ -1,32 +1,25 @@
 body {
+  width: 100%;
   color: #fff5ee;
 }
 
 #home {
-  width: 100vw;
-
-  padding: 0rem 5rem 5rem 5rem;
+  margin-bottom: 5rem;
 }
 #aboutme {
-  width: 100vw;
-  padding: 5rem;
+  margin-bottom: 7rem;
 }
 #iDo {
-  padding: 5rem;
-  width: 100vw;
+  margin-bottom: 7rem;
 }
 #skills {
-  padding: 5rem;
-  width: 100vw;
+  margin-bottom: 7rem;
 }
 #experiences {
-  padding: 5rem;
-  width: 100vw;
+  margin-bottom: 7rem;
 }
 #contact {
-  padding: 5rem;
-  width: 100vw;
-  margin-bottom: 3rem;
+  margin-bottom: 7rem;
 }
 
 .navbar-brand {
@@ -38,14 +31,9 @@ body {
 .nav-item {
   margin-left: 1rem;
 }
-.my-name {
-  padding-top: 15rem;
-}
+
 .my-image {
-  margin-top: 12rem;
-
   display: block;
-
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -57,9 +45,6 @@ body {
 }
 .badge-outline {
   border: 1px solid #f0ad4e;
-}
-.fab {
-  margin-left: 20rem;
 }
 
 ul li {
