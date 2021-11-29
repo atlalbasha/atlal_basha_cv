@@ -3,33 +3,8 @@ body {
   color: #fff5ee;
 }
 
-#home {
-  margin-bottom: 5rem;
-}
-#aboutme {
-  margin-bottom: 7rem;
-}
-#iDo {
-  margin-bottom: 7rem;
-}
-#skills {
-  margin-bottom: 7rem;
-}
-#experiences {
-  margin-bottom: 7rem;
-}
-#contact {
-  margin-bottom: 7rem;
-}
-
-.navbar-brand {
-  margin-left: 0.5rem;
-}
-.navbar-nav {
-  margin-left: 0.5rem;
-}
-.nav-item {
-  margin-left: 1rem;
+section {
+  padding-top: 3rem;
 }
 
 .my-image {
